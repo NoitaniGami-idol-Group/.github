@@ -1,4 +1,4 @@
-## 虹咲学园 Imagination 同好会
+## 虹咲学园 Imagination 同好会 （Nijigasaki High School Imagination Club）
 
 开源技术向地下偶像（确信
 
