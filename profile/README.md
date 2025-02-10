@@ -6,7 +6,7 @@ Development technology direction local idol (x
 
 主要研究方向为Imagination GPU IP 在RISC-V上的应用。
 
-The main research direction is the application of Imagination GPU IP on RISC-V.
+The main research direction is the use of Imagination GPU IP on RISC-V.
 
 活动/新闻频道：https://t.me/imaginationtech
 
